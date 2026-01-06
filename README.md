@@ -16,7 +16,7 @@
 ## Run the command
 Run this command (you must create the destination directory beforehand. In my case it's `~/Downloads/tiktokdownload/`)
 ```
-   python tiktokdownload.py <your_file_from_tiktok_account>.json ~/Downloads/tiktokdownload/`
+   python tiktokdownload.py <your_file_from_tiktok_account>.json ~/Downloads/tiktokdownload/
 ```
 
 ## Result - The Output of the program looks like this
